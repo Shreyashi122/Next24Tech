@@ -1,0 +1,26 @@
+            Tutor
+
+1. srijita basu
+   email - srijita123@gmail.com
+   pass - srijita123
+
+2. john doe
+   email - john123@gmail.com 
+   pass - john123
+
+3. kajal singh
+   email - kajal123@gmail.com
+   pass - kajal123
+
+4. darshana kumari
+   email - darshana12@gmail.com
+   pass - darshana123
+
+                user
+1. shreyashi roy
+   email - shreyashi@gmail.com
+   pass - shreyashi@2024
+
+2. Riya Talukdar
+   email - riya@gmail.com
+   pass -  riya@2024
